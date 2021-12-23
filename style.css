@@ -339,13 +339,13 @@ a:hover {
 
 .nav > li a:hover{
     background: transparent;
-    border-bottom: 1px solid red;
+    border-bottom: 1px solid #3E7194;
     
 }
 
 .nav > li a:focus {
     background: transparent;
-    border: 1px solid red;
+    border: 1px solid #3E7194;
 }
 
 .navbar-toggle {
@@ -383,7 +383,7 @@ a:hover {
     }
     .nav > li .dropdown-menu a,
     .nav > li .dropdown-menu a:hover {
-        color: #484848;
+        color: #3E7194;
     }
     .nav-invert .site-navigation {
         left: 0;
@@ -696,11 +696,11 @@ h2 {
 }
 
 .hero-bloc-text {
-    font-size: 38px;
+    font-size: 28px;
 }
 
 .hero-bloc-text-sub {
-    font-size: 36px;
+    font-size: 26px;
 }
 
 .statement-bloc-text {
@@ -861,13 +861,6 @@ h4 {
     background-image: url("img/lines-h2-bg.png");
 }
 
-.bg-banniere {
-    background-image: url("img/la-chouette-agence-banniere.jpg");
-}
-
-.bg-presentation {
-    background-image: url("img/image-de-presentation.jpg");
-}
 
 @media (max-width: 1024px) {
     .bloc {

@@ -96,7 +96,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+   
     background-size: 280px 280px;
 }
 
@@ -200,7 +200,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: black;
 }
 
 .d-bloc .panel button:hover,
@@ -669,17 +669,17 @@ a[data-lightbox]:focus img{
 }
 
 h1,
-h3,
+h2,
 h4,
 h5,
 h6,
 .btn {
     font-family: "helvetica";
     font-weight: bold;
-    font-size: 400;
+    font-size: 500;
     color: white!important;
 }
-label,p,h2,
+label,p,h3,
 a {
     font-family: "helvetica";
     font-weight: 500;
@@ -689,6 +689,7 @@ a {
 h2 {
     margin-left: 10px;
     margin-right: 10px;
+   
 }
 .container {
     max-width: 1000px;
@@ -746,13 +747,14 @@ p {
 h2 {
     font-size: 22px;
     line-height: 1.4em;
+    color: white;
 }
 
 h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #333333!important;
+    color: white;
 }
 
 .med-width-whitespace {
@@ -853,12 +855,9 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    /*! background-image: url("img/dots-bg.png"); */
 }
 
-.bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
-}
 
 
 @media (max-width: 1024px) {

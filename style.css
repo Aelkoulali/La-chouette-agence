@@ -669,7 +669,6 @@ a[data-lightbox]:focus img{
 }
 
 h1,
-h2,
 h3,
 h4,
 h5,
@@ -680,7 +679,7 @@ h6,
     font-size: 400;
     color: white!important;
 }
-label,p,
+label,p,h2,
 a {
     font-family: "helvetica";
     font-weight: 500;

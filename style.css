@@ -552,7 +552,8 @@ button {
 }
 
 .scrollToTop span {
-    margin-top: 6px;
+    
+    padding-right: 10px;
 }
 
 .showScrollTop {
@@ -678,8 +679,9 @@ h6,
 .btn {
     font-family: "helvetica";
     font-weight: bold;
-    font-size: 24px;
+    font-size: 18px;
     color: white!important;
+    padding-right: 5px;
 }
 label,p,h3,
 a {

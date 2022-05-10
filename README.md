@@ -1,3 +1,11 @@
-# La-chouette-agence  ![favicon](https://user-images.githubusercontent.com/77611825/167669711-f3470e9e-0216-40e6-97e3-5bb9b508e979.jpg)
+# La-chouette-agence 
 
+# Optimiser un site web existant
+## Compétences évaluées :
+
+    Réaliser une recherche des bonnes pratiques en développement web
+    Assurer l'accessibilité d'un site web
+    Écrire un code HTML et CSS maintenable
+    Optimiser la taille et la vitesse d’un site web
+    Optimiser le référencement d'un site web
 

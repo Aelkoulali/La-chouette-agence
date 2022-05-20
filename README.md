@@ -1,7 +1,11 @@
 # La-chouette-agence 
 
-# Optimiser un site web existant
+# Site web existant à optimiser :
 https://aelkoulali.github.io/Site-web-a-optimiser/
+
+# Résultat après modifications :
+https://aelkoulali.github.io/La-chouette-agence/
+
 ## Compétences évaluées :
 
     Réaliser une recherche des bonnes pratiques en développement web

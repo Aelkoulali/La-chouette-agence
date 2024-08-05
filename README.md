@@ -12,7 +12,7 @@ https://github.com/Aelkoulali/La-chouette-agence/blob/master/Rapport%20Optimisat
 ## 🔗 Audit SEO :
 https://github.com/Aelkoulali/La-chouette-agence/blob/master/Audit%20SEO%20du%20site%20la%20choutte%20agence%20.pdf
 
-## 🔗 Compétences évaluées :
+## ➡️ Compétences évaluées :
 
     ✅ Réaliser une recherche des bonnes pratiques en développement web
     ✅ Assurer l'accessibilité d'un site web

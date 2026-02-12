@@ -1,4 +1,4 @@
-# 🗂️ La Chouette Agence 🦉
+# 🗂️ La Chouette Agence 👨🏻‍💻
 
 ## 🔗 Site web existant à optimiser :
 https://aelkoulali.github.io/Site-web-a-optimiser/

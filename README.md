@@ -1,9 +1,9 @@
 # 🗂️ La Chouette Agence 👨🏻‍💻
 ## ➡️ Key Concepts :
 ## ✅ Upgrading a website
-## ✅ SEO
+## ✅ SEO Optimisation
 ## ✅ Performance
-## ✅ Accessibility
+## ✅ Accessibility Testing
 ## ✅
 
 ## 🔗 Site web existant à optimiser :

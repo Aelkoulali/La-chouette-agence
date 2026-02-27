@@ -1,4 +1,10 @@
 # 🗂️ La Chouette Agence 👨🏻‍💻
+## ➡️ Key Concepts :
+## ✅ Upgrading a website
+## ✅ 
+## ✅ 
+## ✅ 
+## ✅
 
 ## 🔗 Site web existant à optimiser :
 https://aelkoulali.github.io/Site-web-a-optimiser/

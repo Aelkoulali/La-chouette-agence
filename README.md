@@ -4,7 +4,7 @@
 ## ✅ SEO Optimisation
 ## ✅ Performance
 ## ✅ Accessibility Testing
-## ✅
+## ✅ JavaScript, HTML & CSS
 
 ## 🔗 Site web existant à optimiser :
 https://aelkoulali.github.io/Site-web-a-optimiser/

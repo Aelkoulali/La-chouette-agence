@@ -18,11 +18,10 @@ https://github.com/Aelkoulali/La-chouette-agence/blob/master/Rapport%20Optimisat
 ## 🔗 Audit SEO :
 https://github.com/Aelkoulali/La-chouette-agence/blob/master/Audit%20SEO%20du%20site%20la%20choutte%20agence%20.pdf
 
-## ➡️ Compétences :
+## ➡️ Skills :
 
-    ✅ Réaliser une recherche des bonnes pratiques en développement web
-    ✅ Assurer l'accessibilité d'un site web
-    ✅ Écrire un code HTML et CSS maintenable
-    ✅ Optimiser la taille et la vitesse d’un site web
-    ✅ Améliorer le référencement d'un site web
-
+✅ Conduct research on best practices in web development
+✅ Ensure website accessibility
+✅ Write maintainable HTML and CSS code
+✅ Optimize website size and speed
+✅ Improve website search engine ranking

@@ -20,8 +20,8 @@ https://github.com/Aelkoulali/La-chouette-agence/blob/master/Audit%20SEO%20du%20
 
 ## ➡️ Skills :
 
-✅ Conduct research on best practices in web development
-✅ Ensure website accessibility
-✅ Write maintainable HTML and CSS code
-✅ Optimize website size and speed
-✅ Improve website search engine ranking
+## ✅ Conduct research on best practices in web development
+## ✅ Ensure website accessibility
+## ✅ Write maintainable HTML and CSS code
+## ✅ Optimize website size and speed
+## ✅ Improve website search engine ranking

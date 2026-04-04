@@ -1,4 +1,4 @@
-# 🗂️ La Chouette Agence 👨🏻‍💻
+# 🗂️ La Chouette Agence 
 ## ➡️ Key Concepts :
 ## ✅ Upgrading a website
 ## ✅ SEO Optimisation

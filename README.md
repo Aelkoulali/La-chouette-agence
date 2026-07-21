@@ -4,7 +4,7 @@
 This project optimizes an existing website by improving SEO, performance, and accessibility while keeping the HTML/CSS code maintainable.
 
 ### 🔗 Before
-https://aelkoulali.github.io/Site-web-a-optimiser/
+https://aelkoulali.github.io/La-chouette-Agence-V01/
 
 ### 🔗 After
 https://aelkoulali.github.io/La-chouette-agence/
